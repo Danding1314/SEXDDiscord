@@ -1,0 +1,6 @@
+name: SEXDDiscord
+main: SEXDDiscord\Main 
+author: sdsd15
+version: 1.0.0
+api: [3.17.0]
+description: SEXDDiscord version 1.0.0
